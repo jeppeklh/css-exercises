@@ -1,0 +1,21 @@
+/* index.html */
+
+.red {
+    background-color:   #ff000080;
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#green-and-bold {
+    background-color: rgb(115, 232, 115);
+    font-weight: 700;
+    
+}
+
+#blue-and-bigger {
+    color: rgb(0, 0, 220);
+    font-size: 36px;
+}
